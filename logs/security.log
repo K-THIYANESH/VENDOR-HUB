@@ -1,0 +1,23 @@
+2026-05-22 16:59:27,654 WARNING: SECURITY ALERT: Failed login attempt (Non-existent user) - admin_1779447968@demo.com
+2026-05-22 16:59:39,646 WARNING: SECURITY ALERT: Failed login attempt (Non-existent user) - admin_1779447968@demo.com
+2026-05-22 16:59:41,520 WARNING: SECURITY ALERT: Failed login attempt (Non-existent user) - admin_1779447968@demo.com
+2026-05-22 17:00:11,513 WARNING: SECURITY ALERT: Failed login attempt (Non-existent user) - admin_1779447968@demo.com
+2026-05-22 17:00:12,901 WARNING: SECURITY ALERT: Failed login attempt (Non-existent user) - admin_1779447968@demo.com
+2026-05-22 17:01:45,895 INFO: SECURITY ALERT: New user registered - admin_1779449503@demo.com with role admin
+2026-05-22 17:01:48,135 INFO: SECURITY ALERT: User login successful - admin_1779449503@demo.com
+2026-05-22 17:01:50,351 INFO: SECURITY ALERT: New user registered - seller_1779449503@demo.com with role seller
+2026-05-22 17:01:52,603 INFO: SECURITY ALERT: User login successful - seller_1779449503@demo.com
+2026-05-22 17:02:52,847 INFO: SECURITY ALERT: New user registered - admin_1779449570@demo.com with role admin
+2026-05-22 17:02:55,084 INFO: SECURITY ALERT: User login successful - admin_1779449570@demo.com
+2026-05-22 17:02:57,313 INFO: SECURITY ALERT: New user registered - seller_1779449570@demo.com with role seller
+2026-05-22 17:02:59,549 INFO: SECURITY ALERT: User login successful - seller_1779449570@demo.com
+2026-05-22 17:03:09,994 INFO: SECURITY ALERT: New user registered - buyer_1779449570@demo.com with role buyer
+2026-05-22 17:03:12,227 INFO: SECURITY ALERT: User login successful - buyer_1779449570@demo.com
+2026-05-22 17:04:57,206 INFO: SECURITY ALERT: User login successful - admin_1779449570@demo.com
+2026-05-22 17:26:18,632 INFO: SECURITY ALERT: User login successful - seller_1779449570@demo.com
+2026-05-22 18:03:10,080 INFO: SECURITY ALERT: New user registered - admin_1779453187@demo.com with role admin
+2026-05-22 18:03:12,333 INFO: SECURITY ALERT: User login successful - admin_1779453187@demo.com
+2026-05-22 18:03:14,570 INFO: SECURITY ALERT: New user registered - seller_1779453187@demo.com with role seller
+2026-05-22 18:03:16,798 INFO: SECURITY ALERT: User login successful - seller_1779453187@demo.com
+2026-05-22 18:03:27,228 INFO: SECURITY ALERT: New user registered - buyer_1779453187@demo.com with role buyer
+2026-05-22 18:03:29,455 INFO: SECURITY ALERT: User login successful - buyer_1779453187@demo.com
